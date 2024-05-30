@@ -31,4 +31,4 @@ Start the server using Express:
 npm start
 
 Usage
-Once both the client and server are running, you can access the application at the specified URL.
+Once both the client and server are running, you can access the application at the http://localhost:5173.
